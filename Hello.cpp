@@ -10,4 +10,4 @@ int main() // this is main function. Function is the blocks of executable lines 
   cout<<"Introduce yourself : (Your name, matric no, Place of Origins) "<<endl;
   
   return 0; //this is to end every function. return 0 for the system to run correctly
-}
+} //every function should be opened with opening curly bracket and ended with closing curly bracket
